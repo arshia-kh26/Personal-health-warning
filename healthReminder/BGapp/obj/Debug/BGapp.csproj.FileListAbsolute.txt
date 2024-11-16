@@ -1,0 +1,9 @@
+c:\users\pc\documents\visual studio 2012\Projects\BGapp\BGapp\bin\Debug\BGapp.exe.config
+c:\users\pc\documents\visual studio 2012\Projects\BGapp\BGapp\bin\Debug\BGapp.exe
+c:\users\pc\documents\visual studio 2012\Projects\BGapp\BGapp\bin\Debug\BGapp.pdb
+c:\users\pc\documents\visual studio 2012\Projects\BGapp\BGapp\obj\Debug\BGapp.csprojResolveAssemblyReference.cache
+c:\users\pc\documents\visual studio 2012\Projects\BGapp\BGapp\obj\Debug\BGapp.Form1.resources
+c:\users\pc\documents\visual studio 2012\Projects\BGapp\BGapp\obj\Debug\BGapp.Properties.Resources.resources
+c:\users\pc\documents\visual studio 2012\Projects\BGapp\BGapp\obj\Debug\BGapp.csproj.GenerateResource.Cache
+c:\users\pc\documents\visual studio 2012\Projects\BGapp\BGapp\obj\Debug\BGapp.exe
+c:\users\pc\documents\visual studio 2012\Projects\BGapp\BGapp\obj\Debug\BGapp.pdb
